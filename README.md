@@ -1,6 +1,8 @@
-npm install 
+Set up enviroment
 
-get ip address from your pc -> command prompt ->type ipconfig
+step1: Open the terminal npm install 
+
+step2: get ip address from your pc -> command prompt ->type ipconfig
 
 below will show like this
 
@@ -10,10 +12,10 @@ below will show like this
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 192.168.0.1
 
-add to -> src -> utils -> apiCalls -> BASE_URL -> change the ip here
+step3: add to -> src -> utils -> apiCalls -> BASE_URL -> change the ip here
 
 
-connect app with your device
+Connect app with your device
 
 step:1 after npm installed -> connect your mobile phone -> open the mobile =>go to setting ->about phone -> go to version ->press 3 times build number tab ->
 ON THE DEVELOPER MODE 
